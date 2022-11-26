@@ -1,0 +1,17 @@
+#consoleLog {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 25px;
+}
+
+#alert {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#prompt {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
